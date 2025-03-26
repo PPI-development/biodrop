@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bio-Drop</string>
+    <string-array name="modes_array">
+        <item>Timer</item>
+        <item>Distance</item>
+    </string-array>
+</resources>
